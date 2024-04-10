@@ -3,12 +3,12 @@ marp: true
 theme: gaia
 class: invert
 ---
+# Introduction aux CTFs
 <!-- footer: Frédéric Bilodeau -->
 <!-- ![bg left contain](../Images/hack1.jpeg)
 ![bg contain](../Images/hack2.jpeg) -->
 
 ![bg right:25% 100%](../Images/logo_jdis.png)
-# Introduction aux CTFs
 
 
 
@@ -24,16 +24,17 @@ class: invert
 
 __Seulement__ dans un contexte d’apprentissage ou dans un contexte fait pour ça 
 
-> Les pentests c’est cool, pas la prison -- Fred
+- > Les pentests c’est cool, pas la prison -- Fred
 
-
-Life is not a pentest except when explicitly stated
+- Life is not a pentest except when explicitly stated
 
 ---
-
 # Pourquoi ?
 
-Pasque
+- Aide à mieux comprendre les systèmes dans l'ensemble
+- A vous rendre plus sécuritaire comme dévéloppeurs
+- Des puzzles
+- Des beaux moments
 
 ---
 <style scoped>
@@ -71,7 +72,6 @@ Pasque
 
 ---
 # Débutant 
-
 - Linux basic
 - Code challenges style algos
 - Pico CTF
