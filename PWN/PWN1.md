@@ -2,8 +2,11 @@
 marp: true
 theme: gaia
 class: invert
-paginate: true
 ---
 
 # PWN
-![bg right:20% fit](../images/logo_jdis.png)
+![bg right:25% fit](../Images/logo_jdis.png)
+
+
+---
+<!-- paginate: true -->
