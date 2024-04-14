@@ -9,4 +9,6 @@ class: invert
 <style scoped>h1 {font-size: 300%;position:absolute; margin:25% 0;}</style>
 
 ---
+
+#### Comme d'la stego, mais pas toujours dans des photos   
 <!-- paginate: true -->

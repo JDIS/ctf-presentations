@@ -11,3 +11,12 @@ class: invert
 
 ---
 <!-- paginate: true -->
+# BASIC
+---
+# XSS
+
+---
+# Front End Validations \#bad
+
+---
+# CSRF TOKEN
