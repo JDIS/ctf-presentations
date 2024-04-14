@@ -36,9 +36,13 @@ Est souvent le cas quand la "track" contient des images
 
 --- 
 # Outils de bases
+- strings
 - StringCheese
 - binwalk / unblob
 - stegHide
+- exiftools
+- outguess
+- foremost
 - Oeil de lynx (code caché sur l'image de base)
 - Présentation aperisolve  <!-- https://www.aperisolve.com/cheatsheet -->
 
