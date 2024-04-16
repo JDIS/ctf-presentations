@@ -103,14 +103,14 @@ usage:
 ``` steghide extract -sf photo.jpeg ```
 
 ---
-# Exiftools
+# Exiftool
 Un tools qui permet de sortir les métadonnées d'un fichier
 
 installation:
-``` apt install exiftools ```
+``` apt install exiftool ```
 
 usage:
-``` exiftools a.jpeg ```
+``` exiftool a.jpeg ```
 
 ---
 # outguess
