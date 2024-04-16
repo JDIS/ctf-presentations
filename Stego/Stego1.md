@@ -42,15 +42,25 @@ Est souvent le cas quand la "track" contient des images
 - stegHide
 - exiftools
 - outguess
-- foremost
 - Oeil de lynx (code caché sur l'image de base)
 - Présentation aperisolve  <!-- https://www.aperisolve.com/cheatsheet -->
 
 ---
 <!-- header: Outils -->
+# Strings
+
+Permet de sortie les "strings" d'un fichier 
+Très utile avec grep
+Vient par défaut dans linux !
+
+usage:
+``` strings fichier ```
+
+
+---
 # StringCheese :watermelon:
 
-> Un ptit coup dans stringcheese c'est jamais perdu  - Fred
+> Un ptit coup dans stringcheese c'est pas fou - Fred
 
 It works like a simple strings | grep command, but can detect many encodings (like base64, XOR, rot13) and works on file formats other than plaintext.
 
@@ -71,11 +81,9 @@ installation:
 usage:
 ``` binwalk -e photo.jpeg ```
 
-
-
 ---
 # Unblob
-Très similaire à binwalk, mais un peu plus simple, peut donner des résultats similaires, mais ça reste un autre tool d'utile 
+Très similaire à binwalk, mais un peu plus simple, peut donner des résultats similaires, mais ça reste un autre outil utile
 
 installation:
 ``` python3 -m pip install unblob ```
@@ -86,36 +94,58 @@ usage:
 
 ---
 # StegHide
+Un autre outil qui permet de cacher des informations dans des images
 
 installation:
 ``` apt install steghide ```
 
 usage:
+``` steghide extract -sf photo.jpeg ```
+
+---
+# Exiftools
+Un tools qui permet de sortir les métadonnées d'un fichier
+
+installation:
+``` apt install exiftools ```
+
+usage:
+``` exiftools a.jpeg ```
+
+---
+# outguess
+Un autre outil qui permet de cacher des informations dans des images
+
+ 
+installation:
+ ``` apt install outguess ```
+
+usage:
+``` outguess -k "my secret pass phrase" -r out.jpg message.txt ```
+
 
 
 ---
-:eyes:
+# :eyes:
 
+- Code QR
+- image en section
+- mauvaise extension (.jpg .png)
+- changements des couleurs
+- abérations sur les images 
 
 ---
-
 # Aperisolve
 Un merveilleux site qui fait pas mal toutes les techniques des pages précédantes de façon automagique 
 
 https://www.aperisolve.com/ :watermelon:
 
-
-La sheet cheat
-
 ---
-
 # PNG specific
+Changer la hauteur ou la largeur dune image 
+source :
+https://cyberhacktics.com/hiding-information-by-changing-an-images-height/
 
-# JPEG specific
-
-# BMP specific
-
-# 
 --- 
 <!-- header: Wild stuffs -->
 # Ésoterie

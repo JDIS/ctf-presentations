@@ -12,3 +12,15 @@ class: invert
 
 #### Comme d'la stego, mais pas toujours dans des photos   
 <!-- paginate: true -->
+
+
+
+---
+<!-- header: Outils -->
+# Outils
+
+- mount
+- foremost
+
+---
+# foremost
