@@ -3,16 +3,13 @@ marp: true
 theme: gaia
 class: invert
 ---
-# Introduction aux CTFs
+# Introduction
 <!-- footer: Frédéric Bilodeau -->
 <!-- ![bg left contain](../Images/hack1.jpeg)
 ![bg contain](../Images/hack2.jpeg) -->
 
 ![bg right:25% 100%](../Images/logo_jdis.png)
-
-
-
-
+<style scoped>h1 {font-size: 300%;position:absolute; margin:25% 0;}</style>
 
 
 ---
@@ -52,19 +49,20 @@ __Seulement__ dans un contexte d’apprentissage ou dans un contexte fait pour �
 8) Ghidra
 9) Nmap
 10) nc
-11) Binwalk
-12) Aperisolve
-13) Metasploit
-14) John the Ripper
-15) sqlmap
-16) Bash
-17) HashCat
-18) Strings
-19) aws-cli
-20) VirtualBox
-21) Lockpicking tools
-22) Impact driver
-23) le cerveaux des amis 
+11) curl
+12) Binwalk
+13) Aperisolve
+14) Metasploit
+15) John the Ripper
+16) sqlmap
+17) Bash
+18) HashCat
+19) Strings
+20) aws-cli
+21) VirtualBox
+22) Lockpicking tools
+23) Drill
+24) le cerveaux des amis 
 
 ---
 # Où ? => Partout
@@ -88,7 +86,7 @@ __Seulement__ dans un contexte d’apprentissage ou dans un contexte fait pour �
 
 ---
 # OG
- - torcher au North sec
+ - Torcher au North sec
  - Finir RingZero
  - Faire du code / scripting pour des outils
  - LIRE WRITE UP DE TOUTE

@@ -12,7 +12,7 @@ class: invert
 ---
 # Recherche dans les fichiers
 
-```rgrep``` : une meilleure facon que ```cat foo | grep``` 
+``` rgrep ``` : une meilleure facon que ``` cat foo | grep ``` 
 
 
 <!-- paginate: true -->
