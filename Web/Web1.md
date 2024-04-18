@@ -16,7 +16,7 @@ class: invert
 - Front END
 - Back END
 - Middle MAN
-
+- 
 
 ---
 <!-- header: front END -->
@@ -24,7 +24,6 @@ class: invert
 ### \#bad
 
 le code est dans la page web ou dans les fichiers disponible sur votre fureteur
-
 - souvent obfusqué
 
 ---
@@ -33,18 +32,27 @@ le code est dans la page web ou dans les fichiers disponible sur votre fureteur
 ---
 # Javascript
 
----
-# 
-
 --- 
 <!-- header: back END -->
 #  Back END
+Côté Server
+- Languages:
+  - Nodejs
+  - Go
+  - 
 
 ---
 # SQLi
+On a une presentation complete sur le SQLi 
 
 ---
 # JWT (json WEB token)
 
 ---
 # CSRF TOKEN
+
+--- 
+# LFI
+
+--- 
+Apache et compagnie
