@@ -11,11 +11,47 @@ class: invert
 ![bg right:25% 100%](../Images/logo_jdis.png)
 <style scoped>h1 {font-size: 300%;position:absolute; margin:25% 0;}</style>
 
+---
+# C'est quoi ?
+
+Des défis informatiques avec le but de trouver des "codes" ou des mots de passes (flags)
+
+###### ULCTF-N0U5_50MM35_L35_M31LL3UR5
+
+Plusieurs catégories :
+web, cryptographies, stéganographie, PWN, réseaux, hardware, sécurité physique, reverse, forensic  
+
+---
+# Pourquoi ?
+
+- Le défi
+- Des puzzles
+- Aide à mieux comprendre les systèmes dans l'ensemble
+- Apprendre la sécurité informatique et la rendre plus accessible
+- À vous rendre plus sécuritaire comme dévéloppeurs
+- Des beaux moments
+
+---
+# Comment participer ? 
+
+2 types
+- Type évenements (NorthSec, HackFest, UnitedCTF)
+- Ceux ouvert à l'année (HackTheBox, PicoCTF)
+
+Très souvent gratuit, basé sur un modèle comme le PicoCTF où il y a une liste de défis bien séparé et bien défini
 
 ---
 <!-- paginate: true -->
 <!-- header: Introduction -->
 <!-- footer: "" -->
+
+# Où ?
+
+De partout !
+
+Pour les évenements, souvent la formule est hybride et il est possible de faire du CTF en présence. Super agréable et vraiment pertinant pour faire du réseautage et pour l'aspect festif
+
+---
 # Éthique
 ###### Très important !
 
@@ -23,15 +59,7 @@ __Seulement__ dans un contexte d’apprentissage ou dans un contexte fait pour �
 
 - > Les pentests c’est cool, pas la prison -- Fred
 
-- Life is not a pentest except when explicitly stated
-
----
-# Pourquoi ?
-
-- Aide à mieux comprendre les systèmes dans l'ensemble
-- A vous rendre plus sécuritaire comme dévéloppeurs
-- Des puzzles
-- Des beaux moments
+Ne pas attaque la plateforme ni autres choses que les défis
 
 ---
 <style scoped>
@@ -39,7 +67,7 @@ __Seulement__ dans un contexte d’apprentissage ou dans un contexte fait pour �
 </style>
 # Outils
 
-1) google.com      
+1) google.com
 2) cyberchef.com :watermelon:
 3) Python
 4) WireShark
@@ -62,21 +90,21 @@ __Seulement__ dans un contexte d’apprentissage ou dans un contexte fait pour �
 21) VirtualBox
 22) Lockpicking tools
 23) Drill
-24) le cerveaux des amis 
-
----
-# Où ? => Partout
-
+24) le cerveaux des amis
 
 ---
 # Débutant 
-- Linux basic
+
+Quoi faire ?
+- Apprendre les bases de Linux
+- Ce faire une machine virtuelle / environement  
 - Code challenges style algos
 - Pico CTF
 - Choixpeau de ta branche
 
 ---
 # Medium rare
+
 - Finir PicoCTF
 - Montréhack
 - Ringzero
