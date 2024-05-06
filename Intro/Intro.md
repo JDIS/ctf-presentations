@@ -30,6 +30,8 @@ web, cryptographies, stéganographie, PWN, réseaux, hardware, sécurité physiq
 - Apprendre la sécurité informatique et la rendre plus accessible
 - À vous rendre plus sécuritaire comme dévéloppeurs
 - Des beaux moments
+- Des contacts
+- Drinks & snacks
 
 ---
 # Comment participer ? 
