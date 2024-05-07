@@ -13,23 +13,34 @@ class: invert
 
 ---
 # Première étape 
-
 Lire le titre et la question au complet (__for real ?__)
 
 Analyse des informations reçus :
 - fichiers ? 
 - liens ?
+- rien ? 
+  - T'es sûr ? 
 
 ---
-# Fichier
-- message texte
-    - e, n, p, c
-        - crypto ? encodage ? 
-- archive
-    - disque ? fichier caché ? 
-    - mauvaise extension (.pdf => .png)
-- image
-    - stéganographie
+# Fichier -> message texte
+- e, n, p, c
+    - crypto ?
+- encodage ? 
+  - rot13 ? base64 ? 
+
+---
+# Fichier -> archive
+- disque ? fichier caché ? 
+- mauvaise extension (.pdf => .png) ? 
+- montage du disque ? 
+
+---
+# Fichier -> image
+- stéganographie ?
+  - fichiers cachées ? 
+  - couleurs ? 
+  - meta-données ?
+  - aperisolve ?  
 
 ---
 # Liens
@@ -41,11 +52,11 @@ nc 192.168.1.100
 Peut être des questions, des algorithmes, des buffers overflow et autres
 
 ---
-# Liens
-Page web
+# Liens -> Page web
 - Code source ?
-- field input
-  - Sql ? XSS ? XXE ? 
-- Network Traffic ? 
-- JWT ? 
+- field input ?
+  - Sqli ? XSS ? XXE ? 
+- Network Traffic ?
+  - Burp Suite ? WireShark ? 
+- JWT ?
 - Cookies ? 

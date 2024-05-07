@@ -43,7 +43,7 @@ Côté Server
 
 ---
 # SQLi
-On a une presentation complete sur le SQLi 
+On a une presentation complète sur le SQLI :eyes:
 
 ---
 # JWT (json WEB token)
@@ -55,4 +55,8 @@ On a une presentation complete sur le SQLi
 # LFI
 
 --- 
-Apache et compagnie
+# Apache et compagnie
+
+
+---
+# 
