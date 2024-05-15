@@ -19,7 +19,7 @@ class: invert
 ###### Caché à la vue de tous
 <!-- ###### C'est Quoi ?  -->
 
-Se distainge de la crypto par le fait qu'elle n'est pas encrypté, mais bien juste caché "hidden in plain sight"
+Se distingue de la crypto par le fait qu'elle n'est pas encryptée, mais bien juste cachée "hidden in plain sight"
 
 Est souvent le cas quand la "track" contient des images
 
@@ -156,6 +156,6 @@ https://cyberhacktics.com/hiding-information-by-changing-an-images-height/
 --- 
 <!-- header: Exercices -->
 # Exercices
-Pico CTF:
+Pico CTF
 
 

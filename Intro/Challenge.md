@@ -15,7 +15,7 @@ class: invert
 # Première étape 
 Lire le titre et la question au complet (__for real ?__)
 
-Analyse des informations reçus :
+Analyse des informations reçues :
 - fichiers ? 
 - liens ?
 - rien ? 
@@ -23,6 +23,8 @@ Analyse des informations reçus :
 
 ---
 # Fichier -> message texte
+- cyber chef -> un ptit coup avec magic
+- decode.fr
 - e, n, p, c
     - crypto ?
 - encodage ? 
@@ -57,6 +59,7 @@ Peut être des questions, des algorithmes, des buffers overflow et autres
 - field input ?
   - Sqli ? XSS ? XXE ? 
 - Network Traffic ?
-  - Burp Suite ? WireShark ? 
+  - Burp Suite ? Headers ? Technos ?
+  -  WireShark ? 
 - JWT ?
 - Cookies ? 

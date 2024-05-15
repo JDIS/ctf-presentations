@@ -15,21 +15,47 @@ class: invert
 ### Les grosses sections :
 - Front END
 - Back END
-- Middle MAN
-- 
+- Le "entre-deux" (Middle MAN)
 
 ---
 <!-- header: front END -->
 # Front End Validations  
 ### \#bad
 
+
+![bg right:50%](../Images/front.jpg)
+[source] (https://memedrop.io/meme/Nm08LXo98Loe)
+
+---
+
 le code est dans la page web ou dans les fichiers disponible sur votre fureteur
 - souvent obfusqué
 
+
+
+
 ---
+<!-- header: Outils -->
+# Outils 
+- Burp suite | Zap | Caido
+- Postman | insomnia | Curl
+- dirbuster | gobuster | ferox 
+
+
+
+
+---
+<!-- header: Outils -->
+# fuzzing
+
+
+
+---
+<!-- header: XSS -->
 # XSS
 
 ---
+<!-- header: Javascript -->
 # Javascript
 
 --- 
@@ -42,17 +68,27 @@ Côté Server
   - 
 
 ---
+<!-- header: SQLi -->
 # SQLi
 On a une presentation complète sur le SQLI :eyes:
 
 ---
-# JWT (json WEB token)
+<!-- header: JWT -->
+# JWT (Json WEB token)
 
 ---
+<!-- header: CSRF -->
 # CSRF TOKEN
+
+
+---
+# SSRF
+[Explication](https://portswigger.net/web-security/ssrf)
+
 
 --- 
 # LFI
+[Explication](https://en.wikipedia.org/wiki/File_inclusion_vulnerability#Local_file_inclusion)
 
 --- 
 # Apache et compagnie

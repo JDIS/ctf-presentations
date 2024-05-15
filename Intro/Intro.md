@@ -92,14 +92,14 @@ Ne pas attaque la plateforme ni autres choses que les défis
 21) VirtualBox
 22) Lockpicking tools
 23) Drill
-24) le cerveaux des amis
+24) les cerveaux des amis
 
 ---
 # Débutant 
 
 Quoi faire ?
 - Apprendre les bases de Linux
-- Ce faire une machine virtuelle / environement  
+- Se faire une machine virtuelle / environnement  
 - Code challenges style algos
 - Pico CTF
 - Choixpeau de ta branche
@@ -116,7 +116,7 @@ Quoi faire ?
 
 ---
 # OG
- - Torcher au North sec
+ - Torcher au NorthSec
  - Finir RingZero
  - Faire du code / scripting pour des outils
  - LIRE WRITE UP DE TOUTE
